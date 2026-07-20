@@ -1,13 +1,8 @@
-<div align="center">
 
-
-<img width="2742" height="836" alt="Firefly (2)" src="https://github.com/user-attachments/assets/b7b3b88e-0731-40ed-863a-b4d79325c040" />
-
-<img src="./banner.png" width="100%" alt="banner"/>
-
-<br/>
 
 # Mostafa Mohammed
+
+<img width="2742" height="836" alt="Firefly (2)" src="https://github.com/user-attachments/assets/b7b3b88e-0731-40ed-863a-b4d79325c040" />
 
 <a href="https://www.linkedin.com/in/mostafa-mo-/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
