@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Firefly (2)"/>
+<img width="2742" height="836" alt="Firefly (2)" 
 
 </div>
 
