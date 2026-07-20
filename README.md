@@ -138,4 +138,5 @@ Docker · Redis · CI/CD · Azure · System Design · Microservices → then bui
 <br/>
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=mostafa-000&theme=github-dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=mostafa-000&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=mostafa-000&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA" alt="GitHub Streak" height="165"/>
