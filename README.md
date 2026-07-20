@@ -10,6 +10,22 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=false&vCenter=true&width=600&lines=Backend+Developer+%7C+.NET;C%23+%7C+SQL+Server+%7C+ADO.NET;Building+strong+foundations%2C+one+layer+at+a+time." alt="Typing SVG" />
 
+<a href="https://www.linkedin.com/in/mostafa-mo-/">
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="42" height="42"/>
+</a>
+&nbsp;
+<a href="mailto:aylex1111@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail.png" alt="Email" width="42" height="42"/>
+</a>
+&nbsp;
+<a href="https://github.com/mostafa-000">
+  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="42" height="42"/>
+</a>
+
+
+
+
+
 <br/>
 
 ## 👨‍💻 About Me
