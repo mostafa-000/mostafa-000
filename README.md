@@ -138,4 +138,4 @@ Docker · Redis · CI/CD · Azure · System Design · Microservices → then bui
 <br/>
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=mostafa-000&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=mostafa-000&theme=github-dark&hide_border=true)
