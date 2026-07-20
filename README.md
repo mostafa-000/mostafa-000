@@ -1,7 +1,9 @@
 <div align="center">
 
+
+<img width="2742" height="836" alt="Firefly (2)" src="https://github.com/user-attachments/assets/b7b3b88e-0731-40ed-863a-b4d79325c040" />
+
 <img src="./banner.png" width="100%" alt="banner"/>
-![Uploading Firefly (2).png…]()
 
 <br/>
 
